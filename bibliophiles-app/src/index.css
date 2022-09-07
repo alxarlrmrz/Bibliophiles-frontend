@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200;0,7..72,300;0,7..72,400;0,7..72,500;0,7..72,600;0,7..72,700;0,7..72,800;0,7..72,900;1,7..72,200;1,7..72,300;1,7..72,400;1,7..72,500;1,7..72,600;1,7..72,700;1,7..72,800;1,7..72,900&display=swap');
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: 'Literata', serif;
+}
+
+.primary-button {
+  color: white;
+  text-transform: uppercase;
+  font-size: 15px;
+  background-color: darkgrey;
+  padding: 12px 30px;
+  border-radius: 30px;
+  border: none;
+}
+
+.primary-button:hover {
+
+}
+
+body {
+  text-align: center;
+}
+
+/* Navbar */
+
